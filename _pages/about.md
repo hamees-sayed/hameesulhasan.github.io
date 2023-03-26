@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.cse.iitb.ac.in/">CSE, IIT Bombay</a>
+subtitle: <a href="https://inf.ethz.ch/">D-INFK, ETH Zürich</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Mumbai, India</p>
+    <p>Zürich, Switzerland</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Saikiran, I recently finished my undergraduate in the Computer Science and Engineering department of [IIT Bombay](https://www.cse.iitb.ac.in/) (2018-22). 
-In Fall 2022, I'll be joining [ETH Zürich](https://inf.ethz.ch/) for an MSc in Computer Science. 
-I'm currently interested in machine learning, computer vision, and fairness & interpretability in ML.
+Hi! I am Saikiran, a computer science MSc student at [ETH Zürich](https://inf.ethz.ch/).
+I did my undergraduate in the Computer Science and Engineering department of [IIT Bombay](https://www.cse.iitb.ac.in/) from 2018 to 2022. 
+I'm currently interested in computer graphics, machine learning, computer vision, and fairness & interpretability in ML.
 
 I did my Bachelors' thesis with Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) and Prof. [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) on self-supervised multimodal learning. 
 In the summer of 2021, I was a data science intern at Microsoft, where I worked on vision-language models for Bing ads classification with [Swati Tiwari](https://www.linkedin.com/in/swati-tiwari-1805/) and [Neelesh Khanna](https://www.linkedin.com/in/nekhanna/).
