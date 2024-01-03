@@ -8,8 +8,6 @@ show: true
 authors:
   - name: Akkapaka Saikiran
     url: "https://akkapakasaikiran.github.io/" 
-    affiliations:
-      name: CSE, IIT Bombay
 
 ---
 
