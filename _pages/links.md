@@ -20,3 +20,4 @@ nav: false
 * [LLM Tutorials](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain)
 * [MOOCs Compiled](https://deep-learning-drizzle.github.io/)
 * [Best Programming Youtuber 🗣️](https://www.youtube.com/@TsodingDaily)
+* [Martin Gardner Articles](https://www.scientificamerican.com/author/martin-gardner/)
