@@ -1,8 +1,13 @@
 ---
 layout: page
-title: miscellaneous
-permalink: /misc
+title: misc
 nav: true
+dropdown: true
+children:
+    - title: links
+      permalink: /links
+    - title: gallery
+      permalink: /gallery
 ---
 
 <!-- pages/misc.md -->
