@@ -14,7 +14,7 @@ nav: false
 * [DL.AI](https://www.deeplearning.ai/)
 * [NPTEL](https://nptel.ac.in/)
 * [Fast.AI](https://www.fast.ai/)
-* [Try to different LLMs](https://labs.perplexity.ai/)
+* [Talk to different LLMs](https://labs.perplexity.ai/)
 * [Hugging Face](https://huggingface.co/)
 * [Generate AI Art](https://sd.pencilcase.ai/)
 * [LLM Tutorials](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain)
