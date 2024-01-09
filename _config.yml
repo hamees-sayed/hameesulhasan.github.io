@@ -7,7 +7,7 @@ name: Hamees Ul Hasan
 surname: Sayed
 email: hameessayed71@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hamees's personal website
+  my personal website
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords:  # add your own keywords or leave empty
