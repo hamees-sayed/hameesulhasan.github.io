@@ -22,5 +22,7 @@ I played basketball for my high school team. My favourite authors include [Marti
 
 ## **currently**
 - catching up with all the pending mangas
-- plotting the greatest academic comeback known to human history
+- plotting the greatest academic comeback known to human history    
+
+PS. Under Construction! This space is a work in progress. I'll be updating it regularly with new content and ideas, so do keep visiting! 🚧💡
 
