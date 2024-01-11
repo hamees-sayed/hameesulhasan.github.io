@@ -28,5 +28,6 @@ nav: false
 ---
 
 ### External
-- [CS229 by Stanford](https://cs229.stanford.edu/)
-- [Mathematics of Machine Learning Specialization by DeepLearning.AI](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+- [CS229 by Stanford University](https://cs229.stanford.edu/)
+- [Mathematics for Machine Learning and Data Science Specialization by DeepLearning.AI](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
+- [see more](https://www.linkedin.com/in/hamees-sayed/details/certifications/)
