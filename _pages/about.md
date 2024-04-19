@@ -20,9 +20,29 @@ Apart from academics, I enjoy playing video games, watching anime, reading comic
 
 I played basketball for my high school team. My favourite authors include [Martin Gardner](https://www.goodreads.com/author/show/7105.Martin_Gardner) and [Randoll Munroe](https://www.goodreads.com/en/book/show/21413662).
 
-## **currently**
-- catching up with all the pending mangas
-- plotting the greatest academic comeback known to human history    
 
-PS. Under Construction! This space is a work in progress. I'll be updating it regularly with new content and ideas, so do keep visiting! 🚧💡
+<div class="news">
+            <h2>news</h2>
+            {% if site.news  -%}
+            <div class="table-responsive">
+              <table class="table table-sm table-borderless">
+              {%- assign news = site.news | reverse -%}
+              {% for item in news limit: site.news_limit %}
+                <tr>
+                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <td>
+                    {% if item.inline -%}
+                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                    {%- else -%}
+                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {%- endif %}
+                  </td>
+                </tr>
+              {%- endfor %}
+              </table>
+            </div>
+          {%- else -%}
+            <p>No news so far...</p>
+          {%- endif %}
+          </div>
 
