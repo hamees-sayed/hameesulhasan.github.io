@@ -6,7 +6,7 @@ subtitle: <a href="https://study.iitm.ac.in/ds/">DS, IIT Madras</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address:
 
 news: false  # includes a list of news items
